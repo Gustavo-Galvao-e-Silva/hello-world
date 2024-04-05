@@ -1,4 +1,6 @@
 # hello-world
-Practice GitHub
+Practicing GitHub
 
-Makinng commit to change repository
++
+Making commit to change repository
++
